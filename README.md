@@ -1,4 +1,3 @@
-# melerAdrian_pruebatec1
 # Prueba tecnica numero 1 curso Hackabosss
 
 Mi proyecto consiste en un pequeño sistema de gestion de empleados en el cual el usuario puede listar, agregar, editar y borrar a los empleados del sistema. Los datos son ingresados y recuperados de una base de datos.
@@ -7,5 +6,5 @@ La aplicacion consta de un menu con 6 opciones. La primera opcion le permite al 
 
 Para la realizacion del proyecto utilice JAVA, una base de datos MySql y JPA.
 
-SUPUESTO: En la tercera y la cuarta opcion en las que se puede editar o eliminar un empleado, se supone que el usuario no sabria que el codigo de edicion y el codigo de eliminacion son los id que tienen los empleados en la base de datos. 
+### SUPUESTO: En la tercera y la cuarta opcion en las que se puede editar o eliminar un empleado, se supone que el usuario no sabria que el codigo de edicion y el codigo de eliminacion son los id que tienen los empleados en la base de datos. 
 

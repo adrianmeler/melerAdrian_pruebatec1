@@ -1,5 +1,5 @@
 # melerAdrian_pruebatec1
-Prueba tecnica numero 1 curso Hackabosss
+#Prueba tecnica numero 1 curso Hackabosss
 
 Mi proyecto consiste en un pequeño sistema de gestion de empleados en el cual el usuario puede listar, agregar, editar y borrar a los empleados del sistema. Los datos son ingresados y recuperados de una base de datos.
 
